@@ -1,5 +1,5 @@
 <h1  align="center">
-<img src="https://github.com/hnifmaghfur/zwallet-backend/blob/master/images/images-1607162063228.png" > <br>
+<img src="https://github.com/hnifmaghfur/zwallet-backend/blob/master/images/images-1607162063228.png" width="100" height="100" > <br>
 zwallet-backend
 </h1>
 <p align="center">
