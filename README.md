@@ -1,6 +1,5 @@
-![zwallet-logo](https://github.com/hnifmaghfur/zwallet-backend/blob/master/images/images-1607162063228.png)
-
 <h1  align="center">
+<img src="https://github.com/hnifmaghfur/zwallet-backend/blob/master/images/images-1607162063228.png" >
 zwallet-backend
 </h1>
 <p align="center">
