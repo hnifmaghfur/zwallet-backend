@@ -19,8 +19,8 @@ const mysql = require("mysql");
 const conn = mysql.createConnection({
   host: "localhost",
   user: "root",
-  // password: "Nifinda7", //aws
-  password: "",
+  password: "Nifinda7", //aws
+  // password: "",
   database: "zwallet",
 });
 
